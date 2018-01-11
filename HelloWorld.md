@@ -2,4 +2,4 @@
 * Created for the Coursera Data Science
 * Created using Windows Notepad++
 
-### Goodbye
+### Goodbye - for now
